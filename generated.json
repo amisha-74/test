@@ -5,6 +5,12 @@
       "name": "user1",
       "email": "user1@testmail.com",
       "accountNumber": 6000
+    },
+    {
+      "id": 1234567839,
+      "name": "user2",
+      "email": "user1@testmal.com",
+      "accountNumber": 60000
     }
   ]
 }
